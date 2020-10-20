@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hai
+          Meow
         </a>
       </header>
     </div>
