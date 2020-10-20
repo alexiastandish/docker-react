@@ -10,13 +10,6 @@ test('renders without crashing', () => {
   // expect(linkElement).toBeInTheDocument();
 })
 
-test('renders without crashing', () => {
-  const div = document.createElement('div')
-  ReactDOM.render(<App />, div)
-  ReactDOM.unmountComponentAtNode(div)
-  // expect(linkElement).toBeInTheDocument();
-})
-
 // test('', () => {
 //     const { getByText } = render(<App />);
 //     const linkElement = getByText(/learn react/i);
